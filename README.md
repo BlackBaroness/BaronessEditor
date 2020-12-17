@@ -4,7 +4,4 @@
 ![LinesOfCode](https://img.shields.io/tokei/lines/github/BlackBaroness/BaronessEditor?color=8b00ff)
 [![Download](https://img.shields.io/badge/Download-Click-8b00ff)](https://spigotmc.ru/resources/baronesseditor-beta.475/)
 
-## Video (Russian)
-https://www.youtube.com/watch?v=SFUvcIUnBrA
-
 ![BaronessEditor stats](https://bstats.org/signatures/bukkit/BaronessEditor.svg)
