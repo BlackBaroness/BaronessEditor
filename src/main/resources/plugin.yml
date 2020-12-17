@@ -1,0 +1,9 @@
+name: BaronessEditor
+version: 1.0
+main: ru.baronessdev.editor.Core
+authors: [ Black_Baroness ]
+website: baronessdev.ru
+commands:
+  beditor:
+    usage: /beditor
+    permission: baronesseditor.use
