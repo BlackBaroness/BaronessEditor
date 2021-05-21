@@ -22,7 +22,7 @@ public class UpdateCheckerUtil {
         int version = -1;
         try {
             String result = EntityUtils.toString(HttpClients.createDefault().execute(
-                    new HttpGet("https://market.baronessdev.ru/shop/baronessenchant.5/")
+                    new HttpGet("https://market.baronessdev.ru/shop/baronesseditor.3/")
             ).getEntity());
 
             for (String s : result.split("\n")) {
