@@ -41,7 +41,7 @@ public final class BaronessEditor extends JavaPlugin {
             Logger.log(LogType.INFO, "Projects dir created.");
         }
 
-        Logger.log(LogType.INFO, "Version " + getDescription().getVersion() + " enabled.");
+        Logger.log(LogType.INFO, "BaronessEditor v" + getDescription().getVersion() + " enabled.");
         checkUpdates();
     }
 
