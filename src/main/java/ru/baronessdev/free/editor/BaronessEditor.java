@@ -3,6 +3,7 @@ package ru.baronessdev.free.editor;
 import co.aikar.commands.PaperCommandManager;
 import com.google.common.collect.ImmutableList;
 import lombok.Getter;
+import org.bstats.bukkit.Metrics;
 import org.bukkit.Bukkit;
 import org.bukkit.ChatColor;
 import org.bukkit.configuration.file.FileConfiguration;
@@ -10,7 +11,6 @@ import org.bukkit.plugin.java.JavaPlugin;
 import ru.baronessdev.free.editor.handlers.CommandHandler;
 import ru.baronessdev.free.editor.handlers.ProjectHandler;
 import ru.baronessdev.free.editor.handlers.QueryHandler;
-import ru.baronessdev.free.editor.util.Metrics;
 
 import java.io.File;
 
